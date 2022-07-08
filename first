@@ -16,7 +16,7 @@ namespace ConsoleApp
             Console.WriteLine("Enter your Last Name:");
             string lastName = Console.ReadLine();
 
-            Console.WriteLine("Enter your Contact Number:");
+            
             string contactNumber = Console.ReadLine();
 
 
